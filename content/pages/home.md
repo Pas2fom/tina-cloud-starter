@@ -1,7 +1,8 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Bienvenu sur le site de Tristan Coach
+  - tagline: ''
+    headline: 'Qualité vécue '
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
